@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px;
+}
+body{
+    background-color: gray;
+}
+.header{
+    color: rgb(129, 125, 125);
+    font-size: 40px;
+    text-align: center;
+    height: 60px;
+    background-color: rgb(166, 199, 230);
+}
+.textbold{
+    color: rgba(110, 106, 106, 0.836);
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+a{
+    background-color: whitesmoke;
+    text-decoration: none;
+    width: 20px;
+    padding: 5px 5px;
+    color: rgb(9, 117, 167);
+    border-radius: 10%;
+    
+}
+a:hover{
+    background-color: rgb(26, 162, 204);
+    text-decoration: none;
+    width: 20px;
+    padding: 7px 7px;
+    color: rgb(110, 117, 111);
+    border-radius: 10%;
+}
